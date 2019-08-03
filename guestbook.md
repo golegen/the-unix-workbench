@@ -506,3 +506,18 @@
 - Evgenii Klt
 - Alexandru Patulea
 - VASYAN
+- Heine Elias Husdal
+- Tim Thomas
+- Tatsuya Hayashi
+- Paweł Krakowiak
+- Claire Wu
+- S.M.Al Mahin
+- erika 6
+- Raunak Ranjan
+- Agustin Beceyro Ferran
+- Nataliya A. Logvina
+- Reshmi de
+- N Rius
+- Armin Salmasi
+- Mamta_Singh
+- Ahmed Zedan
