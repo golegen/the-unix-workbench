@@ -386,7 +386,7 @@
 - Filippo Corri
 - Mudassar Raza
 - Bernhard S
-- Sako 
+- Sako
 - Jake SR
 - Vic Harkness
 - Amir Yariv
@@ -402,7 +402,7 @@
 - Cindy Flórez
 - Patrick Hennessey
 - Ravi Rathore
-- Sanjay 
+- Sanjay
 - Mitch Edmunds
 - Iris Zimmermann
 - Nick Antonogiannis
@@ -521,3 +521,33 @@
 - Armin Salmasi
 - Mamta_Singh
 - Ahmed Zedan
+- Musab Shakeel
+- Josie Everatt
+- René Salas
+- Amy Nguyen
+- Ben Bonner
+- Daniel Santos
+- Greatman Okonkwo
+- Valentin Corelj
+- Alberto Gutierrez
+- Ali Abolhassanzadeh Mahani
+- Shi Wen
+- Maria-Anna Klironomou
+- Rahul Tarte
+- Answar Twizeyimana
+- Stefan Ivanica
+- Gabriel Mota
+- Gerson Santos
+- Raquel Fueyo
+- Sander de Vries
+- Jose Luis
+- Aaron Schlichting
+- Shreyansh Pathak
+- Knut Husdal
+- Michael Lim
+- #tejas
+- Manish Meena
+- Vishal Singh
+- Claire Volleman 
+- Konstheo
+- Shyam Deo
