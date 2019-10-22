@@ -551,3 +551,10 @@
 - Claire Volleman 
 - Konstheo
 - Shyam Deo
+- Tare
+- Kir Pra
+- Petr Hala
+- Arvind Verma
+- Sachin Awasthi
+- Alberto Machado
+- Vetha Nishanth
